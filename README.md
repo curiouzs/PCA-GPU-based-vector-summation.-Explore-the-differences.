@@ -488,10 +488,13 @@ int main(int argc, char **argv)
 ## Output:
 
 block.x = 1023
+![10231](https://github.com/curiouzs/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/75234646/41cc3930-417a-44e4-8932-c714a6cef491)
 
 block.x = 1024
+![1024(1)](https://github.com/curiouzs/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/75234646/de3f21c2-5f92-49db-9d2e-849f3f39e090)
 
 block.x = 256
+![256](https://github.com/curiouzs/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/75234646/7f28e2d5-777d-491c-982e-887307e4819d)
 
 
 Host-based array summation vs GPU-based vector summation
